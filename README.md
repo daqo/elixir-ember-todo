@@ -1,6 +1,6 @@
-# Todos
+# elixir-ember-todo
 
-This is an example of the todo-mvc app, it aims to trail ember-cli and ember.js's latest stable conventions. To view a project more on the bleeding edge, feel to pop over and check out [ember-jobs](https://github.com/stefanpenner/ember-jobs)
+This is the frontend code for the sample Todo list application written in Elixir (Accessible from [here](https://github.com/daqo/elixir-todo)).
 
 ## Prerequisites
 
@@ -22,31 +22,4 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 * `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+* Visit your app at [http://localhost:9000](http://localhost:9000).
